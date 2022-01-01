@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "projects": {
+    "modules": "libs/modules",
+    "user": "apps/user",
+    "user-e2e": "apps/user-e2e"
+  }
+}

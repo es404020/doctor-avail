@@ -1,0 +1,22 @@
+.logo{
+  //  margin-top: 20%;
+    img{
+        height: 120px;
+    }
+}
+
+.form{
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+ion-slides{
+    height: 100vh;
+}
+ion-slide{
+    display: flex;
+    flex-direction: column;
+}
